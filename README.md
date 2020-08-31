@@ -1,3 +1,4 @@
 # adrianmisty.github.io
-Major     : Electrical & Computer Engineering
-Languages : JavaScript, C++ ,MIPS ,Java
+This is the online space for my ITSE-1411
+
+I am editing with Atom.
