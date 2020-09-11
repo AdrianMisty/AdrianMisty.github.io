@@ -59,3 +59,8 @@ nav a:hover{
 background-color: #7C1A00;
 
 }
+
+div article {
+background-image: url("trans-bg.gif");
+
+}
