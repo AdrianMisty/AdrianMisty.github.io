@@ -62,5 +62,14 @@ background-color: #7C1A00;
 
 article {
 background-image: url("trans-bg.gif");
+border-width: 1px;
+border-style: solid;
+border-color: #CCCCCC;
+margin-left: 180px;
+padding: 10px;
 
+}
+
+footer{
+  
 }
