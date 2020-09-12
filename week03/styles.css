@@ -20,7 +20,7 @@ header h1 {
   background-position: left top;
 }
 
-#container {moo moo
+#container {
   margin-bottom: 30px;
 
 }
@@ -60,7 +60,7 @@ background-color: #7C1A00;
 
 }
 
-article {
+#content{
 background-image: url("trans-bg.gif");
 border-width: 1px;
 border-style: solid;
