@@ -12,6 +12,7 @@ h1 {
 
 body{
   background: rgba(0, 128, 0, 0.3)
+
 }
 section {
   border-style: dotted;
@@ -20,6 +21,12 @@ section {
 article {
   border-style: dotted;
   word-wrap: break-word;
+}
+
+div{
+  border-style: dotted;
+  word-wrap: break-word;
+
 }
 aside{
   word-wrap: break-word;
