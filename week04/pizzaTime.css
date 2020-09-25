@@ -6,20 +6,26 @@ header{
   background-position: left top;
 }
 
-body {
-  font-family: Georgia, Times, serif;
-  color: #000000;
-  line-height: 140%;
-  margin: 30px 30px 30px 30px;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-color: #F7F3DE;
-}
 h1 {
   font-family: Impact, Charcoal, sans-serif;
 }
 
+body{
+  background: rgba(0, 128, 0, 0.3)
+}
+section {
+  border-style: dotted;
+  word-wrap: break-word;
+}
+article {
+  border-style: dotted;
+  word-wrap: break-word;
+}
+aside{
+  word-wrap: break-word;
+}
 footer{
+  border-style: dotted;
   clear: both;
   text-align: center;
 }
