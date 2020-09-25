@@ -17,19 +17,22 @@ body{
 section {
   border-style: dotted;
   word-wrap: break-word;
+  background: white;
 }
 article {
   border-style: dotted;
   word-wrap: break-word;
+   background: white;
 }
 
 div{
   border-style: dotted;
   word-wrap: break-word;
-
+  background: white;
 }
 aside{
   word-wrap: break-word;
+  background: white;
 }
 footer{
   border-style: dotted;
