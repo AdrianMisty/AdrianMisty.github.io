@@ -1,9 +1,9 @@
-body {
-  border: 1px solid black;
+header{
   background: url("tortilla-pizza-recipe4.jpg");
   background-size: 500px 500px;
   background-repeat: no-repeat;
   padding: 15px;
+  background-position: left top;
 }
 h1 {
   font-family: Impact, Charcoal, sans-serif;
